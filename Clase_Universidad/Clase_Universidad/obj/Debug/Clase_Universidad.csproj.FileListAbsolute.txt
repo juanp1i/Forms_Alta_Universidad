@@ -1,0 +1,24 @@
+F:\3ro\DA\Clase_Universidad\Clase_Universidad\bin\Debug\Clase_Universidad.dll
+F:\3ro\DA\Clase_Universidad\Clase_Universidad\bin\Debug\Clase_Universidad.pdb
+F:\3ro\DA\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.csprojResolveAssemblyReference.cache
+F:\3ro\DA\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.csproj.CoreCompileInputs.cache
+F:\3ro\DA\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.dll
+F:\3ro\DA\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.pdb
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.csprojAssemblyReference.cache
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.csproj.CoreCompileInputs.cache
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.dll
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.pdb
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Clase_Universidad\Clase_Universidad\bin\Debug\Clase_Universidad.dll
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Clase_Universidad\Clase_Universidad\bin\Debug\Clase_Universidad.pdb
+C:\Users\antonio\Desktop\lalo producto\Clase_Universidad\Clase_Universidad\bin\Debug\Clase_Universidad.dll
+C:\Users\antonio\Desktop\lalo producto\Clase_Universidad\Clase_Universidad\bin\Debug\Clase_Universidad.pdb
+C:\Users\antonio\Desktop\lalo producto\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.csprojAssemblyReference.cache
+C:\Users\antonio\Desktop\lalo producto\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.csproj.CoreCompileInputs.cache
+C:\Users\antonio\Desktop\lalo producto\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.dll
+C:\Users\antonio\Desktop\lalo producto\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.pdb
+C:\Users\user\Desktop\Altas Universidades\Clase_Universidad\Clase_Universidad\bin\Debug\Clase_Universidad.dll
+C:\Users\user\Desktop\Altas Universidades\Clase_Universidad\Clase_Universidad\bin\Debug\Clase_Universidad.pdb
+C:\Users\user\Desktop\Altas Universidades\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Altas Universidades\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Altas Universidades\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.dll
+C:\Users\user\Desktop\Altas Universidades\Clase_Universidad\Clase_Universidad\obj\Debug\Clase_Universidad.pdb

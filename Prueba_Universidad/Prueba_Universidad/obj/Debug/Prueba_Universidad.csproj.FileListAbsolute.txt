@@ -1,0 +1,112 @@
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe.config
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\bin\Debug\Prueba_universidad.pdb
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\bin\Debug\Clase_Universidad.dll
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\bin\Debug\Clase_Universidad.pdb
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csprojResolveAssemblyReference.cache
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmPrincipal.resources
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaAlumnos.resources
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaUniversidad.resources
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmConsulta.resources
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmEliminar.resources
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmNotas.resources
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Properties.Resources.resources
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.GenerateResource.Cache
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CoreCompileInputs.cache
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.exe
+F:\3ro\DA\Prueba_universidad\Prueba_universidad\obj\Debug\Prueba_universidad.pdb
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csprojAssemblyReference.cache
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmPrincipal.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaAlumnos.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaUniversidad.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmConsulta.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmEliminar.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmNotas.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Mostrar_todos.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Properties.Resources.resources
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.GenerateResource.cache
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CoreCompileInputs.cache
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.exe
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.pdb
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe.config
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.pdb
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.dll
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.pdb
+E:\TERCER CUATRIMESTRE\DESARROLLO DE APLICACIONES\PRODUCTOS\PRODUCTO 4\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CopyComplete
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe.config
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.pdb
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.dll
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.pdb
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csprojAssemblyReference.cache
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmPrincipal.resources
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaAlumnos.resources
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaUniversidad.resources
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmConsulta.resources
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmEliminar.resources
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmNotas.resources
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Mostrar_todos.resources
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Properties.Resources.resources
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.GenerateResource.cache
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CoreCompileInputs.cache
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CopyComplete
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.exe
+K:\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.pdb
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe.config
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.pdb
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.dll
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.pdb
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csprojAssemblyReference.cache
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmPrincipal.resources
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaAlumnos.resources
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaUniversidad.resources
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmConsulta.resources
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmEliminar.resources
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmNotas.resources
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Mostrar_todos.resources
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Properties.Resources.resources
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.GenerateResource.cache
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CoreCompileInputs.cache
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CopyComplete
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.exe
+C:\Users\antonio\Desktop\lalo producto\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.pdb
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe.config
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.pdb
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.dll
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.pdb
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmPrincipal.resources
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaAlumnos.resources
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaUniversidad.resources
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmConsulta.resources
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmEliminar.resources
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmNotas.resources
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Mostrar_todos.resources
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Properties.Resources.resources
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CopyComplete
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.exe
+C:\Users\user\Desktop\Producto Helaman(Universidad)\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.pdb
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe.config
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.exe
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\bin\Debug\Prueba_universidad.pdb
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.dll
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\bin\Debug\Clase_Universidad.pdb
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmPrincipal.resources
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaAlumnos.resources
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmAltaUniversidad.resources
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmConsulta.resources
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmEliminar.resources
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.frmNotas.resources
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Mostrar_todos.resources
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.Properties.Resources.resources
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.csproj.CopyComplete
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.exe
+C:\Users\user\Desktop\Altas Universidades\Prueba_Universidad\Prueba_universidad\obj\Debug\Prueba_universidad.pdb
